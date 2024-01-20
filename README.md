@@ -20,7 +20,7 @@ Analytics portfolio
 * Data was displayed using KPI and charts.
 * Filters are used to compare years and/or political party.
 
- [Project #5: Data Analytics Survey]
+ [Project #5: Data Analytics Survey] (https://github.com/bcecyre/portfolio/blob/main/Project5.pdf)
 * Data was taken from the Alex the Analyst's github page.
 * Data was cleaned and visualized with PowerBI.
 * Data was displayed using KPI and charts.
