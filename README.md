@@ -24,3 +24,9 @@ Analytics portfolio
 * Data was taken from the Alex the Analyst's github page.
 * Data was cleaned and visualized with PowerBI.
 * Data was displayed using KPI and charts.
+
+ [Project #6: Electric vehicles grant portrait in Quebec](https://github.com/bcecyre/portfolio/blob/main/Project6.pdf).
+* Data was taken from the Quebec Transport Ministry Website.
+* Data was cleaned and visualized with PowerBI.
+* Data was displayed using tables and charts.
+
